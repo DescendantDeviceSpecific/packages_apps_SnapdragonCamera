@@ -1099,8 +1099,8 @@ public class CameraControls extends RotatableLayout {
         mOrientation = orientation;
         View[] views = {
             mSceneModeSwitcher, mFilterModeSwitcher, mFrontBackSwitcher,
-            TsMakeupManager.HAS_TS_MAKEUP ? mTsMakeupSwitcher : mHdrSwitcher,mBokehSwitcher,
-            mMenu, mShutter, mPreview, mSwitcher, mMute, mReviewRetakeButton,
+            TsMakeupManager.HAS_TS_MAKEUP ? mTsMakeupSwitcher : mHdrSwitcher,
+            mMenu, mPreview, mSwitcher, mMute, mReviewRetakeButton,
             mReviewCancelButton, mReviewDoneButton, mExitPanorama
         };
         for (View v : views) {
