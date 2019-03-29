@@ -67,8 +67,8 @@ import android.view.Display;
 import com.android.camera.util.CameraUtil;
 import java.util.Locale;
 
-import org.codeaurora.snapcam.R;
-import org.codeaurora.snapcam.wrapper.ParametersWrapper;
+import org.descendant.snap.R;
+import org.descendant.snap.wrapper.ParametersWrapper;
 
 public class PhotoMenu extends MenuController
         implements ListMenu.Listener,

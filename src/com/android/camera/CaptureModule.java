@@ -114,10 +114,10 @@ import com.android.camera.util.AccessibilityUtils;
 import com.android.camera.util.VendorTagUtil;
 import com.android.internal.util.MemInfoReader;
 
-import org.codeaurora.snapcam.R;
-import org.codeaurora.snapcam.filter.ClearSightImageProcessor;
-import org.codeaurora.snapcam.filter.GDepth;
-import org.codeaurora.snapcam.filter.GImage;
+import org.descendant.snap.R;
+import org.descendant.snap.filter.ClearSightImageProcessor;
+import org.descendant.snap.filter.GDepth;
+import org.descendant.snap.filter.GImage;
 
 import java.io.File;
 import java.io.FileNotFoundException;
